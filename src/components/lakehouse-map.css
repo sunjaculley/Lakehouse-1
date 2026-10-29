@@ -1,0 +1,32 @@
+.campus-interactive { min-width: 0; }
+.campus-controls { margin-block: var(--spacing-size-6); }
+.campus-interactive__layout { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 1fr); gap: var(--spacing-size-7); align-items: start; }
+.campus-stage { margin: 0; min-width: 0; background: var(--color-base-white); border-style: solid; border-width: var(--spacing-size-0-5, thin); border-color: var(--color-border-default); border-radius: var(--corner-small); overflow: hidden; }
+.campus-svg { display: block; width: 100%; aspect-ratio: 712 / 559; background: var(--color-base-white); }
+.campus-stage figcaption { padding: var(--spacing-size-5); border-top-style: solid; border-top-width: var(--spacing-size-0-5, thin); border-top-color: var(--color-border-default); }
+.campus-legend { display: flex; flex-wrap: wrap; gap: var(--spacing-size-5); font-size: var(--body-small-size); color: var(--color-text-secondary); }
+.campus-legend span:first-child { color: var(--color-blue-700); }
+.campus-legend span:last-child { color: var(--color-purple-700); }
+.campus-dim { fill: var(--color-base-white); fill-opacity: .72; pointer-events: none; }
+.campus-pin { cursor: pointer; outline: none; }
+.campus-pin__hit { fill: transparent; }
+.campus-pin__ring { fill: none; stroke: var(--color-blue-600); stroke-width: 1.4; transform-box: fill-box; transform-origin: center; animation: campus-pulse 2.4s ease-out infinite; }
+.campus-pin__dot { fill: var(--color-blue-600); stroke: var(--color-base-white); stroke-width: 1.6; }
+.campus-pin--upper .campus-pin__dot { fill: var(--color-purple-700); }
+.campus-pin--upper .campus-pin__ring { stroke: var(--color-purple-700); }
+.campus-pin__number { fill: var(--color-base-white); font-family: var(--font-family-primary); font-weight: var(--font-weight-bold); font-size: 8px; text-anchor: middle; pointer-events: none; }
+.campus-pin__label { visibility: hidden; pointer-events: none; }
+.campus-pin__label rect { fill: var(--color-dark-blue-900); stroke: var(--color-base-white); stroke-width: 1; }
+.campus-pin__label text { fill: var(--color-base-white); font-family: var(--font-family-primary); font-size: 10px; font-weight: var(--font-weight-semibold); text-anchor: middle; dominant-baseline: central; }
+.campus-pin.is-selected .campus-pin__dot { fill: var(--color-dark-blue-900); stroke-width: 3; }
+.campus-pin.is-selected .campus-pin__label, .campus-pin.is-hovered .campus-pin__label, .campus-pin:focus-visible .campus-pin__label { visibility: visible; }
+.campus-pin:focus-visible .campus-pin__hit { fill: var(--color-light-blue-100); stroke: var(--color-dark-blue-900); stroke-width: 2; }
+.campus-destinations { min-width: 0; }
+.campus-destinations > h3 { color: var(--color-dark-blue-600); margin-bottom: var(--spacing-size-5); }
+.campus-destination-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: var(--spacing-size-3); }
+.campus-destination-list li { display: flex; flex-wrap: wrap; gap: var(--spacing-size-3); align-items: center; }
+.campus-selected-detail { margin-top: var(--spacing-size-7); }
+.campus-selected-detail .experience-detail > h3 { font-size: var(--headline-small-size); }
+@keyframes campus-pulse { from { transform: scale(.8); opacity: .8; } to { transform: scale(1.9); opacity: 0; } }
+@media (max-width: 960px) { .campus-interactive__layout { grid-template-columns: minmax(0, 1fr); } .campus-destination-list { flex-direction: row; flex-wrap: wrap; } }
+@media (prefers-reduced-motion: reduce) { .campus-pin__ring { animation: none; } }

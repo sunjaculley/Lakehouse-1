@@ -1,0 +1,4 @@
+import { createFileRoute, redirect } from "@tanstack/react-router";
+
+// Former tab URL; the visitor experience is now one scrolling page.
+export const Route = createFileRoute("/visit/help")({ beforeLoad: () => { throw redirect({ to: "/", hash: "help" }); } });
