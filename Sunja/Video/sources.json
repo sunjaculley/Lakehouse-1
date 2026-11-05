@@ -1,0 +1,5 @@
+{
+ "lakehouse-aerial-1080.mp4": {"source": "Frame.io share f.io/CZ7Ov8iJ / Lakehouse Client Experience Team Website.mp4", "rendition": "Frame.io 1080p encode, video only, remuxed (no re-encode)"},
+ "lakehouse-aerial-720.mp4": {"source": "same", "rendition": "Frame.io 720p encode, video only"},
+ "lakehouse-aerial-poster.jpg": {"source": "frame at 1s of the 1080p file"}
+}
