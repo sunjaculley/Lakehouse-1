@@ -118,5 +118,23 @@
   "status": "Approved",
   "w": 1400,
   "h": 934
+ },
+ "fio-guests-phone.jpg": {
+  "source": "GEN / KPMG Lakehouse 2026-85.jpg",
+  "status": "Approved",
+  "w": 1400,
+  "h": 934
+ },
+ "fio-guest-lounge-phone.jpg": {
+  "source": "GEN / KPMG Lakehouse 2026-1090.jpg",
+  "status": "Approved",
+  "w": 1400,
+  "h": 934
+ },
+ "fio-fresh-bowl.jpg": {
+  "source": "EXCH / KPMG Lakehouse 2026-366.jpg",
+  "status": "",
+  "w": 1400,
+  "h": 934
  }
 }
