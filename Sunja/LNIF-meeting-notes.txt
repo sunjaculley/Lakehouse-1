@@ -181,3 +181,5 @@ Assigned to: Jenn McMahon, Muccioli
 7. Password Experience
 Assess and implement the most streamlined feasible password flow so visitors can select a client-specific experience and access it with one password entry while retaining a shared universal landing page.
 Assigned to: Sunja Culley
+
+Medtronic site: https://explore.kpmg.com/knowitbeforeyougo-3eda9dc6/p/1
