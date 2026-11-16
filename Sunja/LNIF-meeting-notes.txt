@@ -1,0 +1,183 @@
+
+Meeting recap
+The team aligned on creating a Lake Nona Impact Forum microsite for KPMG’s invited guests, using the existing client-facing Lakehouse site and Medtronic microsite as the starting point rather than creating an entirely new experience.
+The site will serve as a universal Know Before You Go destination with event-specific information including agenda, speakers, arrival/travel guidance, FAQs, Lakehouse information, maps, and event updates. It should feel highly polished and KPMG-forward while keeping the Lake Nona Impact Forum as the primary event context.
+A second layer will provide personalized, password-protected content for five priority client groups. The current groups discussed were Alphabet, Verizon, Oracle, Johnson & Johnson, and Microsoft. The preferred experience is one universal landing page, with links into individually branded client experiences containing information such as account contacts and client-specific activities.
+ 
+
+Deliverables
+Deliverable
+	
+Owner(s)
+	
+Notes
+
+
+Initial microsite wireframe
+	
+Sunja Culley / Creative team
+	
+Lay out all agreed content areas plus the proposed gated-client experience. The first version does not need to be fully polished.
+
+
+Universal LNIF landing page
+	
+Sunja Culley / Creative team
+	
+Adapt the existing client-site structure with LNIF-specific dates, agenda, speakers, travel/arrival information, FAQs, Lakehouse map and high-end imagery.
+
+
+Five gated client experiences
+	
+Sunja Culley / Creative team
+	
+Develop a repeatable but customizable approach for the priority client groups, including branding, contacts and client-specific experiences.
+
+
+Password/gating UX approach
+	
+Sunja Culley
+	
+Investigate the simplest experience possible, ideally minimizing clicks between the universal page, password entry and client-specific content.
+
+
+LNIF/client-specific content package
+	
+Jennifer Muccioli + Jennifer McMahon
+	
+Supply the client-page breakdown, logos, personalized content, event details, speakers and other LNIF material that can currently be published.
+
+
+FAQ/logistics content
+	
+Jennifer Muccioli + Jennifer McMahon
+	
+Organize LNIF-specific FAQs into categories using the client-site FAQ model. Include practical travel and logistics information to reduce repetitive attendee emails.
+
+
+Site copy/content
+	
+Michael Thayer
+	
+Adapt existing client-site copy and LNIF material into event-specific messaging, maintaining the balance between LNIF, KPMG and Lakehouse.
+
+
+Project timeline / first-draft date
+	
+Allison Milmoe
+	
+Coordinate with creative/content resources and issue an updated timeline. The target discussed was completion by end of November.
+ 
+
+Next steps
+Allison Milmoe to confirm team availability and send an updated timeline for the first draft/wireframe.
+Allison Milmoe to share the existing client-site link with Jennifer McMahon so she can review the current FAQ and Know Before You Go approach.
+Jennifer Muccioli + Jennifer McMahon to organize the FAQ/logistics content and provide available LNIF information, including speakers and any content approved for release. Placeholders such as “coming soon” can be used where information is not final.
+Jennifer Muccioli + Jennifer McMahon to define exactly which personalized client pages are required and provide the corresponding logos and copy.
+Sunja Culley to test the gated/password experience and determine the slickest technically feasible approach.
+Once the first wireframe is ready, Jennifer Muccioli + Jennifer McMahon will take it to their weekly LNIF stakeholder meeting and consolidate feedback back to the creative team.
+ 
+Key design direction
+Reuse what already works rather than reinventing it. The site should leverage the client-site components, including the updated FAQ treatment, travel information, Lakehouse map, imagery and drone footage, while making the experience highly specific to LNIF. The Lakehouse app content should not be carried over because attendees are expected to get more value from the LNIF/Cvent experience.
+ 
+
+ 
+ 
+Request
+ 
+Create a centralized digital destination that:
+Streamlines the experience for KPMG-invited Lake Nona Impact Forum participants.
+Reduces reliance on a high volume of separate attendee communications. Jennifer F Muccioli noted that participants could otherwise receive more than 20 emails even while at Lakehouse.
+Provides useful"know before you go" information prior to arrival.
+Supports real-time information during the first three days of the experience.
+Gives KPMG a more cohesive branded experience around an event that has received elevated brand attention this year.
+Allows information to evolve continuously as speakers, schedules, experiences and other event details become approved.
+Potentially creates client-specific experiences for a small number of priority clients without exposing one client's customized information to other clients.
+
+Expected content
+- Landing/front page.
+- Event overview/information.
+- Know-before-you-go information.
+- Personalized agendas.
+- Event schedule.
+- Speaker announcements/content as approval is received.
+- Lakehouse experience information.
+- Client-lounge information.
+- Ongoing event announcements.
+- Content useful during the initial on-site period.
+
+
+---
+
+Meeting Recap
+Summary
+Microsite Purpose And Audience
+Muccioli and McMahon explained that the team is creating a highly specific, invitation-only microsite for KPMGT’s 100 Lake Nona Impact Forum delegates staying at Lakehouse, while coordinating with the broader event experience and stakeholder group.
+Event Context
+KPMGT is a longstanding co-branding partner and premier sponsor of the annual Lake Nona Impact Forum, which covers health and technology topics and is held primarily at Lakehouse for two of its three days, with the third day at GuideWell. The event is invitation-only, cannot be purchased through public ticketing, and typically includes approximately 700 attendees.
+Target Audience
+The microsite is intended for KPMGT’s 100 sponsor delegate badges and their associated Lakehouse experience, not for all Lake Nona Impact Forum attendees. The delegates include clients allocated through multiple KPMGT lines of business, as well as KPMGT personnel supporting those client relationships.
+Experience Strategy
+Muccioli described the microsite as providing a highly personalized, premium experience for invited delegates. Its purpose is to help deepen client relationships by showing how KPMGT is engaged in health and technology while avoiding an overtly promotional or thought-leadership-heavy presentation.
+Brand Hierarchy
+The historical hierarchy has placed the Lake Nona Impact Forum first, KPMGT second, and Lakehouse third. For this year’s experience, KPMGT and the event will receive greater emphasis, with Lakehouse positioned as an elevated setting and differentiator that gives guests convenient access to the conference.
+Microsite Content And Design
+The project team agreed to adapt the existing client ‘Know Before You Go’ microsite structure into a more event-specific experience using shared copy, visuals, schedules, arrival information, FAQs, maps, and speaker content.
+Template Adaptation
+The new microsite should closely reuse the existing Medtronic Tax Vision/client microsite template rather than remain evergreen or generic. It will be labeled for the 2026 Lake Nona Impact Forum, include KPMGT and Lakehouse branding, and display the relevant event dates and locations.
+Event Information
+The site should include the event agenda as it becomes available, day-by-day information for arrival and activities, speaker names and biographies when approved, and information covering the Lakehouse portion of the event and the third day at GuideWell. ‘Coming soon’ placeholders may be used when content is not yet cleared for publication.
+Arrival And Travel
+The site should retain transportation guidance from the client microsite, including driving, Brightline, and flight options, while adding Lakehouse-specific arrival instructions. McMahon emphasized that the page should centralize travel surveys, shuttle directions, accommodation review links, ambassador details, and other logistics to reduce repeated email exchanges. 
+FAQs And Visuals
+The team will reuse the newly designed FAQ structure, organizing information into clear categories so users can find details without being overwhelmed. The microsite should use high-quality assets from the new photo shoot, the existing drone footage for the header, and a 3D Lakehouse map with selectable areas such as food and beverage and entertainment.
+Mobile App Decision
+The team decided not to direct guests to a separate Lakehouse app. McMahon explained that the official Cvent app will provide the Lake Nona Impact Forum agenda and push notifications, while Lakehouse information will be handled through the microsite and other event communications.
+Client-Specific Gated Experiences
+Monahan, McMahon, Muccioli, and Culley designed a shared microsite with password-protected pages for approximately five priority sponsors, allowing each client to receive customized activities, branding, contacts, and logistics without maintaining separate site instances.
+Priority Sponsors
+The five priority sponsor groups identified were Verizon, Oracle, Alphabet, Johnson & Johnson, and Microsoft. These organizations independently sponsor the Lake Nona Impact Forum and may receive additional KPMGT-hosted Lakehouse experiences, such as private sessions, networking, dinners, or recreational activities before the main conference.
+Personalized Pages
+Each client-specific page should visibly identify the organization through its logo and welcome copy, then provide the relevant client lead partner, KPMGT ambassador, contact information, and customized event details. The page content may include dates, times, locations, registration instructions, and activities unique to that client.
+Shared Site Structure
+The preferred structure is one universal landing page containing common event information and links or buttons for the priority sponsors, followed by individual gated pages. This avoids creating five or more separate microsite instances and allows shared agenda, speaker, FAQ, and logistics content to be updated centrally.
+Delegate Distribution
+McMahon clarified that the 100 KPMGT delegate badges are distributed across several lines of business, including healthcare, consumer and retail, technology, and life sciences. The five priority sponsors represent a distinct subset receiving additional attention; not every one of the 100 delegates will necessarily belong to those five companies, and supporting KPMGT personnel may also receive access to the relevant client page.
+Access Control
+The site should not be indexed or searchable. Muccioli proposed distributing a common URL while manually providing the appropriate password for each client-specific section, so users can see the shared page but access only the page associated with their assigned organization.
+Gating Experience
+Culley described the likely technical pattern as a universal landing page, a client button, a password gate, and then the branded client page. Muccioli asked the team to explore a more streamlined interaction in which clicking the client option leads directly to a password prompt before revealing the destination page; Culley agreed to investigate whether that approach is feasible.
+Stakeholder Coordination And Delivery
+Muccioli and Milmoe assigned follow-up work to produce an initial wireframe, compile approved content, update the project timeline, and review the first draft with the broader LNIF stakeholder team with an intended completion by the end of November.
+Wireframe Review
+Allison and Amy will update the timeline and coordinate the creative work. The first wireframe does not need to be fully polished; it should show all discussed content elements, the universal landing page, and the proposed password-protected experience so Muccioli and McMahon can review it with the broader LNIF stakeholder group.
+Stakeholder Feedback
+Muccioli and McMahon will bring the first wireframe to their recurring weekly LNIF stakeholder call, collect feedback, and relay the resulting changes to the project team.
+Content Inputs
+Muccioli and McMahon will organize the FAQ and logistics information into the same categories used for the existing client microsite. They will also provide approved speaker information and other content that Gloria and the relevant stakeholders have cleared for publication.
+Reference Materials
+Milmoe will send McMahon the existing client microsite and the finalized FAQ content prepared with Courtney. Muccioli will also provide the Lake Nona Impact Forum website link so the team can accurately combine event overview copy with links back to the official event site.
+Target Timing
+Milmoe will confirm the creative team’s copy and production availability and send a schedule for the first draft. The working target is to complete the microsite by the end of November, with the team acknowledging that the turnaround is short because of the upcoming Thanksgiving period.
+Action Items
+1. Project Timeline
+Send the team an updated timeline for the microsite, including the expected first-draft date and coordination with the creative team on copy availability.
+Assigned to: Allison Milmoe
+2. Initial Wireframe
+Create a first wireframe containing the agreed universal microsite content and the password-protected client experiences, then prepare it for review by the LNIF stakeholder team.
+Assigned to: Creative team
+3. FAQ Content
+Organize the Lakehouse travel, arrival, transportation, accommodation, and logistical FAQs into the categorized structure used for the client microsite and provide the finalized FAQ content to the creative team.
+Assigned to: Jenn McMahon, Muccioli
+4. Event Content
+Provide available Lake Nona Impact Forum speaker information and related event content for inclusion in the microsite, using “coming soon” placeholders where details cannot yet be disclosed.
+Assigned to: Jenn McMahon, Muccioli
+5. Microsite Content
+Merge the Lake Nona Impact Forum introductory copy and the relevant event information into the microsite, including a link back to the official LNIF website.
+Assigned to: Mike Thayer
+6. Client-Specific Access
+Provide the required set of priority-sponsor sections, client logos, personalized copy, and related contact information for the password-protected microsite pages.
+Assigned to: Jenn McMahon, Muccioli
+7. Password Experience
+Assess and implement the most streamlined feasible password flow so visitors can select a client-specific experience and access it with one password entry while retaining a shared universal landing page.
+Assigned to: Sunja Culley
